@@ -1,6 +1,5 @@
-## Welcome to SNBW Pages
-
-![559f0b7f646d5520b9308eff940ad92](https://user-images.githubusercontent.com/80690322/149455510-8d725be3-2985-4fd3-a8b7-536822169ee8.jpg)
+## THIS IS SNBW WORKSPACE
+![819](https://user-images.githubusercontent.com/80690322/149455729-059acb5f-4112-4603-b0f3-3cdf07d829f1.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/snbw996007/bw-workspace-green/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
