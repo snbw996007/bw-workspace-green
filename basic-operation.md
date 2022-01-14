@@ -1,12 +1,12 @@
 # 1.df----du
 
-**df：查看当前已挂载的磁盘空间使用情况；
+**df：查看当前已挂载的磁盘空间使用情况**
 
 df -h
 
 ![df -h](https://user-images.githubusercontent.com/80690322/149456364-8b85db82-7c6c-4092-8a57-8078c33f88c7.png)
 
-**du：查看当前目录下所有文件夹的空间占用情况;
+**du：查看当前目录下所有文件夹的空间占用情况**
 
 du -sh
 
@@ -17,13 +17,13 @@ du -h --max-depth=x //目录层级超过x层的不单独统计
 
 # 2.lsof----netstat
 
-**lsof：列出当前系统打开文件的工具
+**lsof：列出当前系统打开文件的工具**
 
 lsof -i:端口号   //查看端口是否打开
 
 ![lsof -i](https://user-images.githubusercontent.com/80690322/149458278-b57fbc6b-a904-46ae-b271-b2c14d57a533.png)
 
-**netstat：
+**netstat：显示网络状态**
 
 netstat -atu   //查看开放端口
 
