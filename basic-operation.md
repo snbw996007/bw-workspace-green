@@ -29,7 +29,9 @@ netstat -atu   //查看开放端口
 
 ![netstat -atu](https://user-images.githubusercontent.com/80690322/149458268-51ea8feb-99c6-40c0-bd44-69cf2284f3d6.png)
 
-# 3.fdisk：创建和维护分区表的程序
+# 3.fdisk
+
+**fdisk：创建和维护分区表的程序**
 
 fdisk -l
 
