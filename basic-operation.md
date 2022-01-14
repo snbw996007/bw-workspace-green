@@ -29,10 +29,14 @@ netstat -atu   //查看开放端口
 
 ![netstat -atu](https://user-images.githubusercontent.com/80690322/149458268-51ea8feb-99c6-40c0-bd44-69cf2284f3d6.png)
 
-# 3.fdisk
+# 3.fdisk----lsblk
 
 **fdisk：创建和维护分区表的程序**
 
 fdisk -l
 
 ![fdisk -l](https://user-images.githubusercontent.com/80690322/149463422-f574308b-ab29-4322-9660-9368406f915f.png)
+
+**lsblk：列出所有可用块设备包括依赖关系的信息，不会列出RAM盘的信息**
+
+![lsblk](https://user-images.githubusercontent.com/80690322/149467284-54ad6b1d-5f6e-4d29-90e9-2ff62308a255.png)
