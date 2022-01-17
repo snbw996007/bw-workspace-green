@@ -33,6 +33,10 @@ netstat -atu   //查看开放端口
 
 **fdisk：创建和维护分区表的程序**
 
+-l 列出素所有分区表
+
+-u 与 -l 搭配使用，显示分区数目
+
 fdisk -l
 
 ![fdisk -l](https://user-images.githubusercontent.com/80690322/149463422-f574308b-ab29-4322-9660-9368406f915f.png)
@@ -63,4 +67,10 @@ fdisk -l
 **yum list install | grep xx**
 
 **dpkg - l | grep xx**
+
+# 5.硬盘相关
+
+**mkfs.vfat  格式化硬盘**
+
+![mkfs vfat](https://user-images.githubusercontent.com/80690322/149727447-ed8e1bb4-3c0e-4afb-ab98-c1a95e070259.png)
 
