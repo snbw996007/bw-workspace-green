@@ -47,6 +47,20 @@ fdisk -l
 
 ![rpm -qa](https://user-images.githubusercontent.com/80690322/149689076-7181faf4-f636-4e90-bbb9-42c50cf2c4a6.png)
 
+**rpm -ivh xx:安装命令，可安装多个，空格隔开**
+
+-i:安装
+-v:显示详情
+-h:安装进度
+
+**rpm -Uvh/-Fvh xx:升级**
+
+-U:没装直接装，装过升级
+-F:没装则不装，有低版本升级
+
+**rpm -e xx:卸载**
+
 **yum list install | grep xx**
 
 **dpkg - l | grep xx**
+
