@@ -4,7 +4,7 @@
 
 Linux输入mysql -hxxx.xxx.xxx.xxx -uroot -pxxx后提示
 
-ERROR 1130 (HY000): Host '10.2.223.11' is not allowed to connect to this MySQL server
+ERROR 1130 (HY000): Host 'xxx.xxx.xxx.xxx' is not allowed to connect to this MySQL server
 
 解决方法
 
