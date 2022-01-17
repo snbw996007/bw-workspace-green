@@ -2,7 +2,7 @@
 
 **远程连接报错**
 
-输入mysql -hxxx.xxx.xxx.xxx -uroot -pxxx后提示
+Linux输入mysql -hxxx.xxx.xxx.xxx -uroot -pxxx后提示
 
 ERROR 1130 (HY000): Host '10.2.223.11' is not allowed to connect to this MySQL server
 
