@@ -40,3 +40,13 @@ fdisk -l
 **lsblk：列出所有可用块设备包括依赖关系的信息，不会列出RAM盘的信息**
 
 ![lsblk](https://user-images.githubusercontent.com/80690322/149467284-54ad6b1d-5f6e-4d29-90e9-2ff62308a255.png)
+
+# 4.rpm----yum----deb
+
+**rpm -qa | grep xx**
+
+![rpm -qa](https://user-images.githubusercontent.com/80690322/149689076-7181faf4-f636-4e90-bbb9-42c50cf2c4a6.png)
+
+**yum list install | grep xx**
+
+**dpkg - l | grep xx**
